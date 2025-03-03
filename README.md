@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayureshkore07
-- 👀 I’m interested in hacking
+- 👀 I’m interested in coding, analysis & scripting.
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on NIC
 - 📫 How to reach me ...
